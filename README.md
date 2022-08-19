@@ -1,2 +1,2 @@
-# Contrase-a_Reforzada
+# Contrasena_Reforzada
 Proyecto de contraseña Reforzada
