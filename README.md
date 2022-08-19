@@ -34,7 +34,7 @@ El diseño del generador inicio con esta secuencia:
 
 Para utilizar el generador solo se requieren 3 pasos.
 
-1. Abrir el generador: 
+1. Abrir el generador: https://github.com/alisronavi/Contrase-a_Reforzada/blob/main/Contrase%C3%B1a_reforzada.ipynb
 2. Correr el codigo
 3. Ingresar el numero que nos piden para obtener nuestra contraseña
 
